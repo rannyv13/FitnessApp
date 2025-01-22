@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="top_bar">20-Days Fitness Activities</string>
+    <string name="desc">Description: </string>
+    <string name="route">Route: </string>
+    <string name="duration">Duration(hrs): </string>
+    <string name="day">Day %d </string>
+
+
+    //titles
+    <string name="title_1">Run</string>
+    <string name="title_2">Walk</string>
+    <string name="title_3">Run</string>
+    <string name="title_4">Run</string>
+    <string name="title_5">Rest</string>
+    <string name="title_6">Run</string>
+    <string name="title_7">Walk</string>
+    <string name="title_8">Run</string>
+    <string name="title_9">Run</string>
+    <string name="title_10">Rest</string>
+    <string name="title_11">Run</string>
+    <string name="title_12">Walk</string>
+    <string name="title_13">Run</string>
+    <string name="title_14">Run</string>
+    <string name="title_15">Rest</string>
+    <string name="title_16">Run</string>
+    <string name="title_17">Walk</string>
+    <string name="title_18">Run</string>
+    <string name="title_19">Run</string>
+    <string name="title_20">Rest</string>
+
+    //descriptions
+    <string name="desc_run">Run within your limits. Keep it slow and steady. Just make sure you\'ll gonna finish the designated time alloted.</string>
+    <string name="desc_walk">Just walk. Enjoy the view.</string>
+    <string name="desc_rest">You just need to rest! Enjoy your day!</string>
+
+    //routes
+    <string name="altaraza">Altaraza</string>
+    <string name="oval">Oval (People\'s Park SJDM)</string>
+    <string name="rest">Home</string>
+
+</resources>
